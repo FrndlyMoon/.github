@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Project phases</title>
+<desc id="d">Four project phases shown as moon phases: new moon is concept, waxing moon is in development, full moon is released, waning moon is maintained.</desc>
+<defs>
+<linearGradient id="moonGrad" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#cfd8f0"/>
+</linearGradient>
+<radialGradient id="shade" cx="0.72" cy="0.42" r="0.85">
+  <stop offset="0" stop-color="#252f7c"/><stop offset="0.55" stop-color="#131a4a"/><stop offset="1" stop-color="#0a0f30"/>
+</radialGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050816"/><stop offset="0.6" stop-color="#0b1233"/><stop offset="1" stop-color="#141b48"/>
+</linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="14" fill="url(#panel)" stroke="#252e66" stroke-width="1.5"/>
+<line x1="150.0" y1="92" x2="1050.0" y2="92" stroke="#252e66" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
+<circle cx="150.0" cy="92" r="32" fill="url(#shade)" stroke="#3a4488" stroke-width="1.5"/>
+<text x="150.0" y="158" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15" fill="#93a6dc">New moon</text>
+<text x="150.0" y="194" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="26" font-weight="700" fill="#e9edf7">Concept</text>
+<text x="150.0" y="226" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">An idea being shaped.</text>
+<text x="150.0" y="250" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Nothing to run yet.</text>
+<circle cx="450.0" cy="92" r="32" fill="url(#shade)" stroke="#3a4488" stroke-width="1.5"/>
+<path d="M450.0 60 A32 32 0 0 1 450.0 124 A16.0 32 0 0 1 450.0 60Z" fill="url(#moonGrad)"/>
+<text x="450.0" y="158" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15" fill="#93a6dc">Waxing moon</text>
+<text x="450.0" y="194" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="26" font-weight="700" fill="#e9edf7">In development</text>
+<text x="450.0" y="226" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Usable, but still changing.</text>
+<text x="450.0" y="250" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Expect breaking changes.</text>
+<path d="M718.0 92 A32 32 0 1 1 782.0 92 A32 32 0 1 1 718.0 92Z" fill="#cfd8f0" opacity="0.55" filter="url(#blur)"/>
+<circle cx="750.0" cy="92" r="32" fill="url(#shade)" stroke="#3a4488" stroke-width="1.5"/>
+<path d="M718.0 92 A32 32 0 1 1 782.0 92 A32 32 0 1 1 718.0 92Z" fill="url(#moonGrad)"/>
+<text x="750.0" y="158" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15" fill="#93a6dc">Full moon</text>
+<text x="750.0" y="194" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="26" font-weight="700" fill="#e9edf7">Released</text>
+<text x="750.0" y="226" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Stable and ready</text>
+<text x="750.0" y="250" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">for everyday use.</text>
+<circle cx="1050.0" cy="92" r="32" fill="url(#shade)" stroke="#3a4488" stroke-width="1.5"/>
+<path d="M1050.0 60 A32 32 0 0 0 1050.0 124 A16.0 32 0 0 0 1050.0 60Z" fill="url(#moonGrad)"/>
+<text x="1050.0" y="158" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15" fill="#93a6dc">Waning moon</text>
+<text x="1050.0" y="194" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="26" font-weight="700" fill="#e9edf7">Maintained</text>
+<text x="1050.0" y="226" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Feature complete.</text>
+<text x="1050.0" y="250" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Receives fixes only.</text>
+</svg>

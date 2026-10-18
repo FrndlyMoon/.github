@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="t d">
+<title id="t">ThePurge</title>
+<desc id="d">ThePurge, a Java plugin licensed under Apache 2.0. Phase: full moon, released.</desc>
+<defs>
+<linearGradient id="moonGrad" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#cfd8f0"/>
+</linearGradient>
+<radialGradient id="shade" cx="0.72" cy="0.42" r="0.85">
+  <stop offset="0" stop-color="#252f7c"/><stop offset="0.55" stop-color="#131a4a"/><stop offset="1" stop-color="#0a0f30"/>
+</radialGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050816"/><stop offset="0.6" stop-color="#0b1233"/><stop offset="1" stop-color="#141b48"/>
+</linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="168" rx="14" fill="url(#panel)" stroke="#252e66" stroke-width="1.5"/>
+<path d="M52 85 A34 34 0 1 1 120 85 A34 34 0 1 1 52 85Z" fill="#cfd8f0" opacity="0.55" filter="url(#blur)"/>
+<circle cx="86" cy="85" r="34" fill="url(#shade)" stroke="#3a4488" stroke-width="1.5"/>
+<path d="M52 85 A34 34 0 1 1 120 85 A34 34 0 1 1 52 85Z" fill="url(#moonGrad)"/>
+<text x="150" y="80" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="34" font-weight="700" fill="#e9edf7">ThePurge</text>
+<text x="150" y="116" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="19" fill="#93a6dc">A Java plugin released freely to the community. Use it, change it, make it yours.</text>
+<rect x="1020" y="46" width="130" height="30" rx="15" fill="none" stroke="#3a4488" stroke-width="1.5"/><text x="1085.0" y="66" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15" fill="#e9edf7">Apache-2.0</text>
+<rect x="930" y="46" width="76" height="30" rx="15" fill="none" stroke="#3a4488" stroke-width="1.5"/><text x="968.0" y="66" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15" fill="#e9edf7">Java</text>
+<text x="1150" y="118" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" fill="#93a6dc">Released</text>
+</svg>

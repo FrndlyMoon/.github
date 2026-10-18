@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="t d">
+<title id="t">What we build</title>
+<desc id="d">Four areas of work: Minecraft plugins and mods, Discord bots, developer tools and websites.</desc>
+<defs>
+<linearGradient id="moonGrad" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#cfd8f0"/>
+</linearGradient>
+<radialGradient id="shade" cx="0.72" cy="0.42" r="0.85">
+  <stop offset="0" stop-color="#252f7c"/><stop offset="0.55" stop-color="#131a4a"/><stop offset="1" stop-color="#0a0f30"/>
+</radialGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#050816"/><stop offset="0.6" stop-color="#0b1233"/><stop offset="1" stop-color="#141b48"/>
+</linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="288" rx="14" fill="url(#panel)" stroke="#252e66" stroke-width="1.5"/>
+<g transform="translate(44.0 52)" fill="none" stroke="#cfd8f0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M24 4 L42 14 L42 34 L24 44 L6 34 L6 14 Z"/><path d="M6 14 L24 24 L42 14 M24 24 L24 44"/></g>
+<text x="44.0" y="152" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="27" font-weight="700" fill="#e9edf7">Minecraft</text>
+<text x="44.0" y="188" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">Plugins and mods that</text>
+<text x="44.0" y="214" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">extend how the game plays.</text>
+<line x1="300.0" y1="48" x2="300.0" y2="242" stroke="#252e66" stroke-width="1.5"/>
+<g transform="translate(344.0 52)" fill="none" stroke="#cfd8f0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="7" width="38" height="27" rx="8"/><path d="M15 34 L13 44 L25 34"/><circle cx="16" cy="21" r="2.2" fill="#cfd8f0"/><circle cx="24" cy="21" r="2.2" fill="#cfd8f0"/><circle cx="32" cy="21" r="2.2" fill="#cfd8f0"/></g>
+<text x="344.0" y="152" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="27" font-weight="700" fill="#e9edf7">Discord bots</text>
+<text x="344.0" y="188" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">Bots that keep communities</text>
+<text x="344.0" y="214" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">organized and engaged.</text>
+<line x1="600.0" y1="48" x2="600.0" y2="242" stroke="#252e66" stroke-width="1.5"/>
+<g transform="translate(644.0 52)" fill="none" stroke="#cfd8f0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M16 13 L5 24 L16 35"/><path d="M32 13 L43 24 L32 35"/><path d="M27 9 L21 39"/></g>
+<text x="644.0" y="152" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="27" font-weight="700" fill="#e9edf7">Developer tools</text>
+<text x="644.0" y="188" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">Small, focused utilities</text>
+<text x="644.0" y="214" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">that remove daily friction.</text>
+<line x1="900.0" y1="48" x2="900.0" y2="242" stroke="#252e66" stroke-width="1.5"/>
+<g transform="translate(944.0 52)" fill="none" stroke="#cfd8f0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="24" r="20"/><ellipse cx="24" cy="24" rx="8.5" ry="20"/><path d="M4 24 H44"/><path d="M8 13 Q24 19 40 13"/><path d="M8 35 Q24 29 40 35"/></g>
+<text x="944.0" y="152" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'DejaVu Serif',serif" font-size="27" font-weight="700" fill="#e9edf7">Websites</text>
+<text x="944.0" y="188" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">Sites and web apps</text>
+<text x="944.0" y="214" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="17" fill="#93a6dc">built to be clear and fast.</text>
+</svg>
