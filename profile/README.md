@@ -24,6 +24,10 @@ Every project carries a phase, named after the moon, so you can tell at a glance
   <img src="https://raw.githubusercontent.com/FrndlyMoon/.github/main/profile/assets/project-thepurge.svg" alt="ThePurge, a Java plugin under the Apache-2.0 license. Phase: full moon, released." width="100%">
 </a>
 
+<a href="https://github.com/FrndlyMoon/CursedRituals">
+  <img src="https://raw.githubusercontent.com/FrndlyMoon/.github/main/profile/assets/project-cursed.svg" alt="CursedRituals, a Java plugin under the Apache-2.0 license. Phase: full moon, released." width="100%">
+</a>
+
 <img src="https://raw.githubusercontent.com/FrndlyMoon/.github/main/profile/assets/project-next.svg" alt="Next release. Phase: new moon, concept." width="100%">
 
 ## Contributing
